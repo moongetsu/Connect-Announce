@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"connect"
+	{
+		"#format"	"{1:s}"
+		"en"		"{green}[MOON] {1} {default}a intrat pe server."
+	}
+	"disconnect"
+	{
+		"#format"	"{1:s}"
+		"en"		"{darkred}[MOON] {1} {default}a iesit de pe server."
+	}
+}
