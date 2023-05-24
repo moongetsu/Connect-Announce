@@ -3,7 +3,7 @@ Prints a message in chat when a player joins/leaves.
 Simple to configure by editing the translation file.
 
 # Requirements: ❗
-SourceMod [higher](https://www.sourcemod.net/downloads.php?branch=stable
+[SourceMod 1.11](https://www.sourcemod.net/downloads.php?branch=stable)
 [MultiColors](https://github.com/Bara/Multi-Colors) (for compile)
 
 # Instalation 🛠
